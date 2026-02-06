@@ -11,4 +11,4 @@
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=aniketpotabatti/Data-Science-EBooks&type=timeline&logscale&legend=top-left" />
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=aniketpotabatti/Data-Science-EBooks&type=timeline&logscale&legend=top-left" />
  </picture>
-</a>
+</a> 
